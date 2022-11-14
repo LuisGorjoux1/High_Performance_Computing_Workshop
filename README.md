@@ -1,1 +1,1 @@
-# Hich_Performance_Computing_Workshop
+# High_Performance_Computing_Workshop
